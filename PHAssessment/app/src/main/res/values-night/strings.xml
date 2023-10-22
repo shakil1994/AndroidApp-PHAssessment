@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PHAssessment</string>
+    <string name="programming_here">Programming Hero</string>
+    <string name="quiz">Quiz</string>
+    <string name="highscore">Highscore</string>
+    <string name="start">Start</string>
+    <string name="back_to_main">Go to Main Menu</string>
+    <string name="congratulation">Congratulation!!\n You Complete all the question!</string>
+</resources>
